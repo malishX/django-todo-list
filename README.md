@@ -18,4 +18,4 @@ Use Django ORM(Object Relational Mapping)
 
 
 
-![Optional Text](../master/Plan/FinalLook.png)
+![Optional Text](../master/Plan/FinalLook.JPG)
