@@ -6,7 +6,7 @@ allow customer to keep track of things they need to
 userStories: 
 user can view his/her list of todo task/items
 user can able to create a new todo task/items
-![Optional Text](../master/todo_list/todo_list/Plan/flowDiagramTwillioAppDjango.png)
+![Optional Text](../master/todo_list/Plan/flowDiagramTwillioAppDjango.png)
 
 
 We will follow MVC architecture
@@ -18,4 +18,4 @@ Use Django ORM(Object Relational Mapping)
 
 
 
-![Optional Text](../master/todo_list/todo_list/Plan/FinalLook.JPG)
+![Optional Text](../master/todo_list/Plan/FinalLook.JPG)
