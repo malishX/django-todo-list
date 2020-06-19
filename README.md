@@ -15,3 +15,7 @@ Basic Bootstrap
 Create Django Model
 Create Django View
 Use Django ORM(Object Relational Mapping)
+
+
+
+![Optional Text](../master/Plan/FinalLook.JPG)
