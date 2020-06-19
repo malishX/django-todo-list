@@ -6,9 +6,7 @@ allow customer to keep track of things they need to
 userStories: 
 user can view his/her list of todo task/items
 user can able to create a new todo task/items
-user can able to delete a currect todo task/items
-https://github.com/thebraina/django-todo-list/blob/master/Plan/flowDiagramTwillioAppDjango.png
-
+![Optional Text](../master/Plan/flowDiagramTwillioAppDjango.png)
 We will follow MVC architecture
 Create Django toDo App
 Basic Bootstrap
